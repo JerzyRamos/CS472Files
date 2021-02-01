@@ -1,0 +1,13 @@
+@relation linSeparable
+@attribute a1 real
+@attribute a2 real
+@attribute class {0,1}
+@data
+1, 2, 0
+2, 2, 0
+2, 1.8, 0
+3.6, 4, 0
+6.5, 10, 1
+7, 8, 1
+8, 9, 1
+9, 10, 1
