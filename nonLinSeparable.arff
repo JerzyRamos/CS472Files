@@ -1,0 +1,13 @@
+@relation nonLinSeparable
+@attribute a1 real
+@attribute a2 real
+@attribute class {0,1}
+@data
+2.5, 1, 0
+2, 10, 0
+6, 6, 0
+7.5, 4.5, 0
+3, 9, 1
+5, 6, 1
+5.6, 9, 1
+6, 1, 1
